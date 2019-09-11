@@ -9,11 +9,11 @@ import pandas as pd
 tabtitle = 'the district'
 myheading1 = 'save'
 myheading2 = 'my'
-image1 = 'dc-flag.jpg'
+image1 = 'Nice-Cool-Image.jpg'
 image2 = 'metro-map.png'
 textbody = "STUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
 sourceurl = 'https://www.wmata.com/about/back2good/index.cfm'
-githublink = 'https://github.com/austinlasseter/dash-dc-layout'
+githublink = 'https://github.com/AlexanderBaker444/dash-dc-layout'
 
 ########### Initiate the app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
