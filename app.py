@@ -7,11 +7,11 @@ import pandas as pd
 ########### Define your variables ######
 
 tabtitle = 'the district'
-myheading1 = 'Step Back! The doors are about to close!'
-myheading2 = 'Back2Good'
+myheading1 = 'save'
+myheading2 = 'my'
 image1 = 'dc-flag.jpg'
 image2 = 'metro-map.png'
-textbody = "Metro's recent on time performance ratings are so good, it's getting harder to find a good reason to take a car!"
+textbody = "STUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
 sourceurl = 'https://www.wmata.com/about/back2good/index.cfm'
 githublink = 'https://github.com/austinlasseter/dash-dc-layout'
 
